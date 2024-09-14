@@ -41,9 +41,9 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
+  published:
     title: 'Published'    
-  conferences:
+  preprints:
     title: 'Preprints'
 
 # Site Settings
