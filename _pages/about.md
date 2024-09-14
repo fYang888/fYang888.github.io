@@ -9,7 +9,7 @@ redirect_from:
 
 I start a 2-year postdoctoral research position at Max-Planck Institute for Mathematics in Bonn from September 2024.
 
-In 2019.08-2024.06, I was a Ph.D student at Tsinghua University, under the guidance of Prof. Fan Xu.
+From August 2019 to June 2024, I was a Ph.D student at Tsinghua University, under the guidance of Prof. Fan Xu.
 
 My research is in algebraic and geometric Hall algebra, particulally in cluster algebras and Hall algebras.
 
