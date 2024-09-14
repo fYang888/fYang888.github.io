@@ -4,5 +4,4 @@ collection: publications
 category: conferences
 permalink: /publication/2023-10-motivic
 paperurl: 'https://arxiv.org/abs/2310.04849'
-
 ---
