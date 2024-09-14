@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I start a 2-years postdoctoral research position at Max-Planck Institute for Mathematics in Bonn from September 2024.
+I start a 2-year postdoctoral research position at Max-Planck Institute for Mathematics in Bonn from September 2024.
 
 In 2019.08-2024.06, I was a Ph.D student at Tsinghua University, under the guidance of Prof. Fan Xu.
 
